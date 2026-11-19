@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://clutchlab-coach.github.io/resilient-waters/sitemap.xml
