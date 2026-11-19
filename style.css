@@ -225,3 +225,5 @@ footer.site p { margin: 4px 0; }
 .cta-row { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
 .btn-cta { display: inline-block; padding: .6em 1.2em; border-radius: 999px; background: #1e5c46; color: #fff; text-decoration: none; font-weight: bold; border: 1px solid #1e5c46; }
 .btn-cta:hover { background: #14402e; }
+
+.separation-note { background: #eef6f0; border: 1px solid #cfe3d4; border-radius: 10px; padding: .8em 1.1em; color: #33523f; }
