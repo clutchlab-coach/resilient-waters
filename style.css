@@ -36,6 +36,14 @@ header.site {
   border-bottom: 3px solid var(--deep);
 }
 
+.site-tagline {
+  margin: 8px 0 0;
+  font-size: 1.05rem;
+  font-weight: bold;
+  color: #000000;
+  letter-spacing: .4px;
+}
+
 .site-logo {
   width: min(330px, 82vw);
   height: auto;
