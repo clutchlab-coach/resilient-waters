@@ -30,10 +30,25 @@ body {
 }
 
 header.site {
-  background: var(--deep);
-  color: #eef7f0;
+  background: #ffffff;
   text-align: center;
-  padding: 40px 20px 30px;
+  padding: 26px 20px 20px;
+  border-bottom: 3px solid var(--deep);
+}
+
+.site-logo {
+  width: min(330px, 82vw);
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.motto {
+  color: var(--deep);
+  letter-spacing: 1.5px;
+  font-size: 0.82rem;
+  font-weight: bold;
+  text-transform: uppercase;
 }
 
 header.site h1 {
