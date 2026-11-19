@@ -216,3 +216,12 @@ footer.site p { margin: 4px 0; }
 .faith-nav { display: flex; justify-content: space-between; gap: 12px; margin-top: 2em; flex-wrap: wrap; }
 .btn-nav { display: inline-block; padding: .6em 1.1em; border: 1px solid #1e5c46; border-radius: 999px; color: #1e5c46; text-decoration: none; font-weight: bold; }
 .btn-nav:hover { background: #1e5c46; color: #fff; }
+
+.faith-hero { background: url('faith-hero.jpg') center/cover no-repeat; border-radius: 14px; padding: 2.4em 1.2em; margin-bottom: 1.8em; }
+.faith-hero .hero-panel { background: rgba(255,255,255,.9); border-radius: 12px; padding: 1.6em 1.3em; max-width: 620px; margin: 0 auto; text-align: center; }
+.faith-icon { width: 108px; height: 108px; }
+.faith-headline { font-size: 1.65rem; font-weight: bold; color: #14402e; margin: .45em 0 .3em; line-height: 1.3; }
+.faith-sub { color: #33523f; margin: 0 0 1.1em; font-size: 1.05rem; }
+.cta-row { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+.btn-cta { display: inline-block; padding: .6em 1.2em; border-radius: 999px; background: #1e5c46; color: #fff; text-decoration: none; font-weight: bold; border: 1px solid #1e5c46; }
+.btn-cta:hover { background: #14402e; }
