@@ -207,3 +207,12 @@ footer.site p { margin: 4px 0; }
   article.post h1 { font-size: 1.55rem; }
   .card { padding: 18px; }
 }
+
+/* Resilient Faith section */
+.verse { border-left: 4px solid #2E7D32; background: #eef6f0; margin: 1.2em 0; padding: .9em 1.1em; border-radius: 0 8px 8px 0; }
+.verse p { margin: 0 0 .4em; font-size: 1.08rem; }
+.verse cite { color: #1e5c46; font-style: normal; font-weight: bold; }
+.day-list { line-height: 1.9; }
+.faith-nav { display: flex; justify-content: space-between; gap: 12px; margin-top: 2em; flex-wrap: wrap; }
+.btn-nav { display: inline-block; padding: .6em 1.1em; border: 1px solid #1e5c46; border-radius: 999px; color: #1e5c46; text-decoration: none; font-weight: bold; }
+.btn-nav:hover { background: #1e5c46; color: #fff; }
