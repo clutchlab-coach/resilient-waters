@@ -43,6 +43,34 @@ header.site {
   margin: 0 auto;
 }
 
+header.site.hero {
+  background: linear-gradient(90deg, rgba(255,255,255,.55), rgba(255,255,255,.12) 55%, rgba(255,255,255,0) 78%), url('hero-bg.jpg') center / cover no-repeat;
+  padding: 36px 20px 34px;
+}
+
+.hero-inner {
+  max-width: 760px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.hero-logo { margin: 0; width: min(300px, 74vw); }
+
+.hero-head {
+  font-size: 1.65rem;
+  font-weight: bold;
+  color: var(--deep-dark);
+  margin: 16px 0 6px;
+  line-height: 1.25;
+}
+
+.hero-sub {
+  margin: 0;
+  color: #2c4a38;
+  max-width: 470px;
+  font-size: 1.02rem;
+}
+
 .motto {
   color: var(--deep);
   letter-spacing: 1.5px;
