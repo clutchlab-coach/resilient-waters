@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resilient Waters</title>
+    <link>https://clutchlab-coach.github.io/resilient-waters/</link>
+    <atom:link href="https://clutchlab-coach.github.io/resilient-waters/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Climate Resilience, Water &amp; Ecosystems Explained Simply — a research blog by Isaac Bright Addo on climate adaptation, water security, ecohydrology and sustainability.</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 27 Nov 2026 12:00:00 GMT</lastBuildDate>
+    <item>
+      <title>River Ecosystem Health Indicators</title>
+      <link>https://clutchlab-coach.github.io/resilient-waters/post-09-river-ecosystem-health.html</link>
+      <guid isPermaLink="true">https://clutchlab-coach.github.io/resilient-waters/post-09-river-ecosystem-health.html</guid>
+      <pubDate>Wed, 25 Nov 2026 14:00:00 GMT</pubDate>
+      <description>A river cannot tell you how it is doing in words — but it leaves signs. Water chemistry, the insects and fish that live in it, and the shape of its banks and flow together show whether a river ecosystem is healthy or quietly failing.</description>
+    </item>
+    <item>
+      <title>Watershed Management for Sustainable Development</title>
+      <link>https://clutchlab-coach.github.io/resilient-waters/post-08-watershed-management.html</link>
+      <guid isPermaLink="true">https://clutchlab-coach.github.io/resilient-waters/post-08-watershed-management.html</guid>
+      <pubDate>Sun, 22 Nov 2026 14:00:00 GMT</pubDate>
+      <description>A watershed is the whole land area that drains to one river. Managing water at that scale — land, forests, farms, towns and allocation together — is how the pieces in this series become a plan.</description>
+    </item>
+    <item>
+      <title>How Forests Regulate Water Cycles</title>
+      <link>https://clutchlab-coach.github.io/resilient-waters/post-07-forests-water-cycles.html</link>
+      <guid isPermaLink="true">https://clutchlab-coach.github.io/resilient-waters/post-07-forests-water-cycles.html</guid>
+      <pubDate>Sat, 21 Nov 2026 14:05:00 GMT</pubDate>
+      <description>Forests are not just places that receive rain — they help make it, store it, clean it and release it slowly. A plain-language guide to how forests regulate the water cycle, and what changes when they are lost.</description>
+    </item>
+    <item>
+      <title>What Is Eco-Hydrology? A Beginner's Guide</title>
+      <link>https://clutchlab-coach.github.io/resilient-waters/post-06-ecohydrology.html</link>
+      <guid isPermaLink="true">https://clutchlab-coach.github.io/resilient-waters/post-06-ecohydrology.html</guid>
+      <pubDate>Sat, 21 Nov 2026 14:00:00 GMT</pubDate>
+      <description>Eco-hydrology is the science of how water and living systems shape each other. A plain-language guide to the idea behind wetlands, forests and rivers that keep water clean, steady and alive.</description>
+    </item>
+    <item>
+      <title>The Role of Wetlands in Climate Resilience</title>
+      <link>https://clutchlab-coach.github.io/resilient-waters/post-05-wetlands.html</link>
+      <guid isPermaLink="true">https://clutchlab-coach.github.io/resilient-waters/post-05-wetlands.html</guid>
+      <pubDate>Fri, 20 Nov 2026 14:00:00 GMT</pubDate>
+      <description>Wetlands slow floods, clean water, store carbon and keep rivers alive in drought. Why the landscape's own water keepers are among the strongest defences against a changing climate.</description>
+    </item>
+    <item>
+      <title>Water Conservation Strategies for Drought-Prone Regions</title>
+      <link>https://clutchlab-coach.github.io/resilient-waters/post-04-water-conservation.html</link>
+      <guid isPermaLink="true">https://clutchlab-coach.github.io/resilient-waters/post-04-water-conservation.html</guid>
+      <pubDate>Thu, 19 Nov 2026 14:15:00 GMT</pubDate>
+      <description>Rainwater harvesting, smart irrigation, community water management and smart policy: how drought-prone regions are learning to make every drop count.</description>
+    </item>
+    <item>
+      <title>How Cities Are Adapting to Extreme Heat</title>
+      <link>https://clutchlab-coach.github.io/resilient-waters/post-03-urban-heat.html</link>
+      <guid isPermaLink="true">https://clutchlab-coach.github.io/resilient-waters/post-03-urban-heat.html</guid>
+      <pubDate>Thu, 19 Nov 2026 14:10:00 GMT</pubDate>
+      <description>Urban heat islands make cities dangerously hotter than the countryside around them. Green roofs, cool pavements and urban forests — and lessons from Singapore, Vienna and Los Angeles.</description>
+    </item>
+    <item>
+      <title>10 Nature-Based Solutions Fighting Climate Change</title>
+      <link>https://clutchlab-coach.github.io/resilient-waters/post-02-nature-based-solutions.html</link>
+      <guid isPermaLink="true">https://clutchlab-coach.github.io/resilient-waters/post-02-nature-based-solutions.html</guid>
+      <pubDate>Thu, 19 Nov 2026 14:05:00 GMT</pubDate>
+      <description>Mangroves, wetlands, forests, peatlands and more: ten ways working with nature protects communities from floods, heat, drought and rising seas — and the honest challenges that come with them.</description>
+    </item>
+    <item>
+      <title>What Is Climate Adaptation and Why Does It Matter?</title>
+      <link>https://clutchlab-coach.github.io/resilient-waters/post-01-climate-adaptation.html</link>
+      <guid isPermaLink="true">https://clutchlab-coach.github.io/resilient-waters/post-01-climate-adaptation.html</guid>
+      <pubDate>Thu, 19 Nov 2026 14:00:00 GMT</pubDate>
+      <description>Climate adaptation means adjusting to the changes already under way — hotter days, heavier rain, longer droughts. What it is, how it differs from mitigation, real examples, and why every community needs it.</description>
+    </item>
+  </channel>
+</rss>
